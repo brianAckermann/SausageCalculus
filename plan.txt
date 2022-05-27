@@ -1,0 +1,20 @@
+Planning for SausageCalculus
+==============================
+
+<------------------------------- Root ------------------------------------->
+
+   <-------------------------- HEADER ---------------------------------->
+   
+      <-----Recipe Section--------->  <--- Session Log Section-------->
+      <---- Recipe List ----------->  <--- Session List -------------->
+      <---- Recipe Detail --------->  <--- Session Details ----------->
+      <---- Recipe Edit ----------->  <--- Session Edit ----------->
+      <---- Recipe Make? ---------->  <--- Session Comments ----------->
+
+	  
+
+"new" recipe button from RecipeList
+"edit" | "duplicate" | "make" buttons from Recipe Detail
+
+Recipe Make Session creates new session for edit, with attached recipe...  and a scaling option there
+Recipe Session Notes/Comments also attached
